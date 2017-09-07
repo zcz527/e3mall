@@ -1,4 +1,4 @@
-package cn.e3mall;
+package cn.e3mall.mapper;
 
 /**
  * Hello world!
